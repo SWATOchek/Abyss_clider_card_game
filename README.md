@@ -1,6 +1,14 @@
 # Abyss_clider_card_game
 
-## Привет, сейчас я проведу небольшую инструкцию по нашему проекту, здесь вы видете основной экран проекта: ![image](https://user-images.githubusercontent.com/127990023/226963080-43a34d59-546e-44c9-be1a-b0681fc72552.png)
+## Здесь вы видете основной экран проекта: ![image](https://user-images.githubusercontent.com/127990023/226963080-43a34d59-546e-44c9-be1a-b0681fc72552.png)
+
+## Для понимания ветвления веток в проекте, стоит можно просмотреть инструкцию: https://github.com/SWATOchek/Abyss_clider_card_game/blob/main/documentations/rules_of_upload_git.md
+
+## Ветка расположения приложения: https://github.com/SWATOchek/Abyss_clider_card_game/tree/mobile_app
+## Ветка расположения сервера: https://github.com/SWATOchek/Abyss_clider_card_game/tree/mobile_server
+## Ветка веб части приложения: https://github.com/SWATOchek/Abyss_clider_card_game/tree/web_app
+## Главная ветка: https://github.com/SWATOchek/Abyss_clider_card_game/tree/main
+## Документация: https://github.com/SWATOchek/Abyss_clider_card_game/tree/main/documentations
 
 ## В readme.md вы можете прочесть инструкцию и путеводитель по ПО в гитхабе
 
@@ -11,3 +19,4 @@
 ## В папке с документами есть файл с отчётами по каждому человеку, а также документация и презентация проекта: ![image](https://user-images.githubusercontent.com/127990023/226742324-ec30c788-af2a-407c-9f59-cfbd251754b3.png)
 
 ## В документе "rules docker" лежат правила выгрузки приложения с помощью докера.
+## Для работы с докером следует ознокомиться с инструкцией по ссылке: https://github.com/SWATOchek/Abyss_clider_card_game/blob/main/documentations/rules_upload_witd_docker.md
