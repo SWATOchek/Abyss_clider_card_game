@@ -109,6 +109,7 @@ Unmodified -> Modified -> Staged -> Unmodified
 ## Главная ветка: https://github.com/SWATOchek/Abyss_clider_card_game/tree/main
 ## Документация: https://github.com/SWATOchek/Abyss_clider_card_game/tree/main/documentations
 
+# Общее
 ## В readme.md вы можете прочесть инструкцию и путеводитель по ПО в гитхабе
 
 ## В папке с сервером находятся файлы, который нужны для того, чтобы подключаться к нему (серверу) и приложение могло работаь онлайн ![image](https://user-images.githubusercontent.com/127990023/226740843-03088f46-ec73-4b99-b4eb-7b82b81574ab.png)
